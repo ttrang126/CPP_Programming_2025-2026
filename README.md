@@ -1,7 +1,7 @@
 # CPP_Programming_2025-2026 - Learning Lists
 
 | **No.** | **Category** | **Topics / Details** | **Status** |
-|--------------|---------------|----------------------|
+|--------------|---------------|----------------------|--------|
 | 01 | **Data Types & Variables** | Data types, Examples, `sizeof` & modifiers, Variables: declare/define/initialize, Storage classes, rvalue/lvalue | **Done** |
 | 02 | **Preprocessors** | `#define` - Macro vs function-like macro, Conditional compilation, The `#` and `##` operators, Predefined macros, Header guards, Macro vs Inline | **In progress** |
 | 03 | **C/C++ Compilation** | `gcc/g++`, Build pipeline, Static linking, Dynamic linking | **Pending** |
